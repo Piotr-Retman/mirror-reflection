@@ -1,0 +1,138 @@
+@font-face {
+    font-family: Thalea;
+    src: url(../font/thaleahfat/ThaleahFat.ttf);
+}
+
+body{
+    background-color: #000000;
+    color: #ffffff;
+}
+
+a{
+    text-decoration: none;
+    color: #ffffff;
+    font-size: 75px;
+    font-family: Thalea;
+}
+
+.main-header{
+    background-color: #ffffff;
+    color: #000000;
+    font-size: 100px;
+    font-family: Thalea;
+    text-align: center;
+}
+
+.main-header img {
+    border-radius: 90%;
+}
+
+.about{
+    background-color: #ffffff;
+    color: #000000;
+    font-family: Thalea;
+    text-align: center;
+}
+
+.display-4{
+    font-size: 70px;
+}
+
+.lead{
+    font-size: 50px;
+}
+
+.more{
+    font-size: 50px;
+}
+
+.cards{
+    font-family: Thalea;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.cards .card-body, .card-title{
+    color: #000000;
+}
+
+.card-title{
+    font-size: 2em;
+    text-align: center;
+}
+
+.card-text{
+    font-size: 25px;
+}
+
+.download h1{
+    font-family: Thalea;
+    text-align: center;
+}
+
+.download div{
+    margin-top: 5%;
+    margin-bottom: 5%
+}
+
+.howToPlay{
+    color: #000000;
+    background-color: #ffffff;
+    font-family: Thalea;
+    font-size: 2em;
+    text-align: center;
+}
+
+.carousel-item-img{
+    display: inline-flex;
+}
+
+.carousel-item-img img{
+    display:inline-block;
+    width: 50% !important;
+    height: 40%;
+    margin: 20px 20px 2em 100px;
+}
+
+.carousel-item-img h1{
+    width: 50% !important;
+    display: inline-block;
+    margin: 10% 10% 10% 10%;
+    font-family: Thalea;
+    font-size: 2em;
+    text-align: center;
+}
+
+.carousel-inner{
+    background-color: #7272ff;
+}
+
+.card-img-top{
+    height: 70px;
+}
+
+.howToPlay p{
+    font-size: 25px;
+    text-align: center;
+}
+
+
+h3{
+    color: #7272ff;
+}
+
+.contact{
+    color: #000000;
+    background-color: #ffffff;
+    font-family: Thalea;
+    font-size: 2em;
+    text-align: center;
+}
+
+.footer{
+    color: #ffffff;
+    background-color: #000000;
+    font-family: Thalea;
+    font-size: 2em;
+    text-align: center;
+}
