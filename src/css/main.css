@@ -69,6 +69,13 @@ a{
     font-family: Thalea;
     text-align: center;
 }
+.download .container{
+    background-color: white;
+}
+.download .container .col-sm{
+    margin-left: 10%;
+    margin-right: auto;
+}
 
 .download div{
     margin-top: 5%;
